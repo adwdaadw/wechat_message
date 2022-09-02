@@ -1,6 +1,6 @@
 const params = {
-  appid: 'wxb98e44f5e7a956a0',
-  secret: 'a55ef17ddaa3c5bf0cabd344e6c7d17e',
+  appid: 'wx79d805bac23a23c6',
+  secret: 'e61151a490c2b359fece4906aa47ca2f',
   touser: 'ohqRj6EBIUp4gzIQ3mUbULM9uQnQ',
   template_id: 'LvDuTb8njKAv-nG_2L2GT-bkZPCJi_xmmk1Zn5zRF1U',
 }
